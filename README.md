@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I'm poor coder and still need learn the basic knowledge😢.
 
+-----------
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=studylessshape&show_icons=true&theme=github_dark_dimmed)
+
+-----------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=studylessshape&show_icons=true&theme=github_dark_dimmed&layout=compact)
